@@ -1,0 +1,113 @@
+Main Palettes
+#2d446a, #344a6f, #586c8a, #907574, #e39e7d
+
+
+Error codes -- TB-1593,DBS-
+
+
+TB-1593 ----- A table existing with same name
+
+
+DBS-1425 ---- 
+
+
+DBA-1425 ---- Error while committing a DML Query
+
+
+DBB-1425 ----
+
+#$_
+
+
+
+(int)(Math.random() * friendsimg.length) + 0
+
+
+try 
+		{
+			if(con.isValid(20))
+			{
+				System.out.println("Active");
+			}
+			else
+			{
+				System.out.println("Inactive");
+			}
+		} 
+		catch (SQLException e) 
+		{
+			e.printStackTrace();
+		}
+
+
+
+
+
+
+
+		JPanel north = new JPanel();
+		JPanel south = new JPanel();
+		JPanel east = new JPanel();
+		JPanel west = new JPanel();
+		JPanel center = new JPanel();
+
+
+		north.setBackground(Color.RED);
+		south.setBackground(Color.BLUE);
+		east.setBackground(Color.GREEN);
+		west.setBackground(Color.MAGENTA);
+		center.setBackground(Color.YELLOW);
+		
+		north.setBounds(0,0,100,100);
+
+
+
+
+
+
+Login Form -- 0xFFBA99,0x4DABD9,0x2d446a
+First User -- 0xFFFFFF,0xA2AFC4,0x1E1E1E,0x447D06
+
+create table password_manager_users(user_id number(5) primary key,username varchar(20),password varchar(20));
+
+extensions -- .mps
+
+probable privacy policy
+
+Privacy Policy for My PassManager
+
+Effective Date: 06/07/2023
+
+This Privacy Policy describes how My PassManager ("we," "us," or "our") collects, uses, stores, and shares information obtained from users ("you" or "users") of our password manager application ("the Application").
+
+Information We Collect
+1.1. User-Provided Information: When you use our Application, you may provide certain information voluntarily, such as account credentials, passwords, and other sensitive data necessary for the functioning of the password manager.
+
+1.2. Automatically Collected Information: We may collect certain information automatically when you use the Application, such as device information, IP address, usage statistics, and other analytics data. This information is collected using cookies, log files, and similar technologies.
+
+Use of Information
+2.1. We use the information we collect to provide, maintain, and improve the functionality and security of the Application, including managing your passwords and related data.
+
+2.2. We may use aggregated and anonymized data for statistical and analytical purposes to understand user behavior, improve our services, and enhance the user experience.
+
+Data Security
+3.1. We take reasonable measures to protect the security of your information. However, please note that no method of transmission over the internet or electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+Data Sharing
+4.1. We may share your information with third parties only in the following circumstances:
+- With your explicit consent.
+- If required by law, regulation, or legal process.
+- To enforce our rights, protect our property, or prevent fraud or illegal activities.
+- In the event of a merger, acquisition, or sale of all or a portion of our assets, where your information may be transferred as part of the transaction.
+
+Third-Party Services
+5.1. The Application may integrate with third-party services or include links to third-party websites or resources. We are not responsible for the privacy practices or content of these third parties. We encourage you to review the privacy policies of these third parties before using their services or providing any personal information.
+
+Children's Privacy
+6.1. The Application is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will take steps to remove that information from our systems.
+
+Changes to the Privacy Policy
+7.1. We reserve the right to modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy. We encourage you to review this Privacy Policy periodically for any updates.
+
+Contact Us
+8.1. If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at [contact information] (yet to be updated).
